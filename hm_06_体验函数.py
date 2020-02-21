@@ -1,0 +1,2 @@
+import hm_05_九九乘法表
+hm_05_九九乘法表.multiplication_table()
